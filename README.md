@@ -1,4 +1,4 @@
 # ecommerce
 criando um ecommerce
 
-<a>https://danielsilvaba.github.io/ecommerce/</a>
+<a href="https://danielsilvaba.github.io/ecommerce/" target="_blank">Ecommerce</a>
